@@ -1,7 +1,8 @@
-Wyller
-Willyamar
-Vania
-
+Nome: Wyller
+Pai: Willyamar
+Mae: Vania
+Avó: Maria
+Avô: Antonio
 
 Bruno
 Edivaldo
