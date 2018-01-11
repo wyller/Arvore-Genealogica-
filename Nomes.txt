@@ -4,14 +4,14 @@ Mae: Vania
 Avó: Maria
 Avô: Antonio
 
-Bruno
-Edivaldo
-Natalino
-Bárbara
+Nome:Bruno
+Pai:Edivaldo
+Avô:Natalino
+Avó:Bárbara
   
-Silésia
-Simião
-Clariza
+Mãe:Silésia
+Avô:Simião
+AvóClariza
  
 
 Letícia Barcelos
