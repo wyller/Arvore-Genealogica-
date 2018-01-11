@@ -1,23 +1,21 @@
 Nome: Wyller
 Pai: Willyamar
 Mae: Vania
-Av�: Maria
-Av�: Antonio
+Avó: Maria
+Avô: Antonio
 
 Nome:Bruno
 Pai:Edivaldo
-Av�:Natalino
-Av�:B�rbara
+Avô:Natalino
+Avó:Bárbara
   
-M�e:Sil�sia
-Av�:Simi�o
-Av�Clariza
+Mãe:Silésia
+Avô:Simião
+AvóClariza
  
 
-Let�cia Barcelos
-Delma
-Esdras
-Maria Jose
-Iraci Luis
-
-Kassius
+Nome: Letícia Barcelos
+Mãe: Delma
+Pai: Esdras
+Avó: Maria Jose
+Avô: Iraci Luis
